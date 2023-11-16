@@ -70,3 +70,563 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/NatureStarterKit/Animations.meta
+Assets/NatureStarterKit/info.txt
+Assets/NatureStarterKit/info.txt.meta
+Assets/NatureStarterKit/Materials.meta
+Assets/NatureStarterKit/Models.meta
+Assets/NatureStarterKit/Scenes.meta
+Assets/NatureStarterKit/Standard Assets.meta
+Assets/NatureStarterKit/Textures.meta
+Assets/NatureStarterKit/Animations/camanim.anim
+Assets/NatureStarterKit/Animations/camanim.anim.meta
+Assets/NatureStarterKit/Animations/camanim.controller
+Assets/NatureStarterKit/Animations/camanim.controller.meta
+Assets/NatureStarterKit/Animations/Point light (5).controller
+Assets/NatureStarterKit/Animations/Point light (5).controller.meta
+Assets/NatureStarterKit/Animations/Point light (6).controller
+Assets/NatureStarterKit/Animations/Point light (6).controller.meta
+Assets/NatureStarterKit/Animations/point1.anim
+Assets/NatureStarterKit/Animations/point1.anim.meta
+Assets/NatureStarterKit/Animations/point2.anim
+Assets/NatureStarterKit/Animations/point2.anim.meta
+Assets/NatureStarterKit/Materials/bark01.mat
+Assets/NatureStarterKit/Materials/bark01.mat.meta
+Assets/NatureStarterKit/Materials/branch01.mat
+Assets/NatureStarterKit/Materials/branch01.mat.meta
+Assets/NatureStarterKit/Materials/cloud1.mat
+Assets/NatureStarterKit/Materials/cloud1.mat.meta
+Assets/NatureStarterKit/Materials/grass.mat
+Assets/NatureStarterKit/Materials/grass.mat.meta
+Assets/NatureStarterKit/Materials/grid.mat
+Assets/NatureStarterKit/Materials/grid.mat.meta
+Assets/NatureStarterKit/Materials/ground.mat
+Assets/NatureStarterKit/Materials/ground.mat.meta
+Assets/NatureStarterKit/Materials/rock01N.mat
+Assets/NatureStarterKit/Materials/rock01N.mat.meta
+Assets/NatureStarterKit/Materials/rock02N.mat
+Assets/NatureStarterKit/Materials/rock02N.mat.meta
+Assets/NatureStarterKit/Materials/rock03N.mat
+Assets/NatureStarterKit/Materials/rock03N.mat.meta
+Assets/NatureStarterKit/Materials/sky.mat
+Assets/NatureStarterKit/Materials/sky.mat.meta
+Assets/NatureStarterKit/Models/cloud1.FBX
+Assets/NatureStarterKit/Models/cloud1.FBX.meta
+Assets/NatureStarterKit/Models/New Terrain.asset
+Assets/NatureStarterKit/Models/New Terrain.asset.meta
+Assets/NatureStarterKit/Models/rock01.fbx
+Assets/NatureStarterKit/Models/rock01.fbx.meta
+Assets/NatureStarterKit/Models/rock02.fbx
+Assets/NatureStarterKit/Models/rock02.fbx.meta
+Assets/NatureStarterKit/Models/rock03.fbx
+Assets/NatureStarterKit/Models/rock03.fbx.meta
+Assets/NatureStarterKit/Models/rock04.fbx
+Assets/NatureStarterKit/Models/rock04.fbx.meta
+Assets/NatureStarterKit/Models/skybox.FBX
+Assets/NatureStarterKit/Models/skybox.FBX.meta
+Assets/NatureStarterKit/Models/Tree.prefab
+Assets/NatureStarterKit/Models/Tree.prefab.meta
+Assets/NatureStarterKit/Models/Tree_Textures.meta
+Assets/NatureStarterKit/Models/Tree_Textures/diffuse.png
+Assets/NatureStarterKit/Models/Tree_Textures/diffuse.png.meta
+Assets/NatureStarterKit/Models/Tree_Textures/normal_specular.png
+Assets/NatureStarterKit/Models/Tree_Textures/normal_specular.png.meta
+Assets/NatureStarterKit/Models/Tree_Textures/shadow.png
+Assets/NatureStarterKit/Models/Tree_Textures/shadow.png.meta
+Assets/NatureStarterKit/Models/Tree_Textures/translucency_gloss.png
+Assets/NatureStarterKit/Models/Tree_Textures/translucency_gloss.png.meta
+Assets/NatureStarterKit/Scenes/Assets.unity
+Assets/NatureStarterKit/Scenes/Assets.unity.meta
+Assets/NatureStarterKit/Scenes/AssetsSettings.lighting
+Assets/NatureStarterKit/Scenes/AssetsSettings.lighting.meta
+Assets/NatureStarterKit/Scenes/Demo.unity
+Assets/NatureStarterKit/Scenes/Demo.unity.meta
+Assets/NatureStarterKit/Scenes/DemoSettings.lighting
+Assets/NatureStarterKit/Scenes/DemoSettings.lighting.meta
+Assets/NatureStarterKit/Standard Assets/Effects.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/color correction ramp.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/MotionBlurJitter.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseAndGrain.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectGrain.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/NoiseEffectScratch.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/RandomVectors.png.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/SphereShape.psd.meta
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+Assets/NatureStarterKit/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png.meta
+Assets/NatureStarterKit/Textures/bark01.tga
+Assets/NatureStarterKit/Textures/bark01.tga.meta
+Assets/NatureStarterKit/Textures/bark01N.tga
+Assets/NatureStarterKit/Textures/bark01N.tga.meta
+Assets/NatureStarterKit/Textures/branch01.tga
+Assets/NatureStarterKit/Textures/branch01.tga.meta
+Assets/NatureStarterKit/Textures/cloud01.tga
+Assets/NatureStarterKit/Textures/cloud01.tga.meta
+Assets/NatureStarterKit/Textures/cloud1.tga
+Assets/NatureStarterKit/Textures/cloud1.tga.meta
+Assets/NatureStarterKit/Textures/grass01.tga
+Assets/NatureStarterKit/Textures/grass01.tga.meta
+Assets/NatureStarterKit/Textures/grid.tga
+Assets/NatureStarterKit/Textures/grid.tga.meta
+Assets/NatureStarterKit/Textures/ground01.tga
+Assets/NatureStarterKit/Textures/ground01.tga.meta
+Assets/NatureStarterKit/Textures/ground01N.tga
+Assets/NatureStarterKit/Textures/ground01N.tga.meta
+Assets/NatureStarterKit/Textures/groundgrass01.tga
+Assets/NatureStarterKit/Textures/groundgrass01.tga.meta
+Assets/NatureStarterKit/Textures/groundgrass01N.tga
+Assets/NatureStarterKit/Textures/groundgrass01N.tga.meta
+Assets/NatureStarterKit/Textures/rock01AO.tga
+Assets/NatureStarterKit/Textures/rock01AO.tga.meta
+Assets/NatureStarterKit/Textures/rock01N.tga
+Assets/NatureStarterKit/Textures/rock01N.tga.meta
+Assets/NatureStarterKit/Textures/rock02AO.tga
+Assets/NatureStarterKit/Textures/rock02AO.tga.meta
+Assets/NatureStarterKit/Textures/rock02N.tga
+Assets/NatureStarterKit/Textures/rock02N.tga.meta
+Assets/NatureStarterKit/Textures/rock03AO.tga
+Assets/NatureStarterKit/Textures/rock03AO.tga.meta
+Assets/NatureStarterKit/Textures/rock03N.tga
+Assets/NatureStarterKit/Textures/rock03N.tga.meta
+Assets/NatureStarterKit/Textures/rock03S.tga
+Assets/NatureStarterKit/Textures/rock03S.tga.meta
+Assets/NatureStarterKit/Textures/sky.tga
+Assets/NatureStarterKit/Textures/sky.tga.meta
+Assets/_TerrainAutoUpgrade.meta
+Assets/Hand Painted Textures.meta
+Assets/Military_Rifle_01_Free_v2.meta
+Assets/Models.meta
+Assets/Modern Weapons Pack.meta
+Assets/NatureStarterKit.meta
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb2e386cdaf7e7ee2.terrainlayer
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb2e386cdaf7e7ee2.terrainlayer.meta
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb3407d0e55802f81.terrainlayer
+Assets/_TerrainAutoUpgrade/layer_groundgrass01ground01Nb3407d0e55802f81.terrainlayer.meta
+Assets/Hand Painted Textures/Dirt_01.png
+Assets/Hand Painted Textures/Dirt_01.png.meta
+Assets/Hand Painted Textures/Dry Dirt.png
+Assets/Hand Painted Textures/Dry Dirt.png.meta
+Assets/Hand Painted Textures/Dry grass_01.png
+Assets/Hand Painted Textures/Dry grass_01.png.meta
+Assets/Hand Painted Textures/Dry_grass_02.png
+Assets/Hand Painted Textures/Dry_grass_02.png.meta
+Assets/Hand Painted Textures/Floor_01.png
+Assets/Hand Painted Textures/Floor_01.png.meta
+Assets/Hand Painted Textures/grass_01.png
+Assets/Hand Painted Textures/grass_01.png.meta
+Assets/Hand Painted Textures/grass_02.png
+Assets/Hand Painted Textures/grass_02.png.meta
+Assets/Hand Painted Textures/Ice Dirt.png
+Assets/Hand Painted Textures/Ice Dirt.png.meta
+Assets/Hand Painted Textures/Ice_02.png
+Assets/Hand Painted Textures/Ice_02.png.meta
+Assets/Hand Painted Textures/Materials.meta
+Assets/Hand Painted Textures/Roof_tile_02.png
+Assets/Hand Painted Textures/Roof_tile_02.png.meta
+Assets/Hand Painted Textures/Roof_tile_03.png
+Assets/Hand Painted Textures/Roof_tile_03.png.meta
+Assets/Hand Painted Textures/Sand_01.png
+Assets/Hand Painted Textures/Sand_01.png.meta
+Assets/Hand Painted Textures/Sand_02.png
+Assets/Hand Painted Textures/Sand_02.png.meta
+Assets/Hand Painted Textures/snow_01.png
+Assets/Hand Painted Textures/snow_01.png.meta
+Assets/Hand Painted Textures/Water.png
+Assets/Hand Painted Textures/Water.png.meta
+Assets/Hand Painted Textures/Materials/grass_01.mat
+Assets/Hand Painted Textures/Materials/grass_01.mat.meta
+Assets/Military_Rifle_01_Free_v2/Default_Setup.unity
+Assets/Military_Rifle_01_Free_v2/Default_Setup.unity.meta
+Assets/Military_Rifle_01_Free_v2/Default_SetupSettings.lighting
+Assets/Military_Rifle_01_Free_v2/Default_SetupSettings.lighting.meta
+Assets/Military_Rifle_01_Free_v2/Docs.meta
+Assets/Military_Rifle_01_Free_v2/FBX.meta
+Assets/Military_Rifle_01_Free_v2/MotusMan Animator Controller.controller
+Assets/Military_Rifle_01_Free_v2/MotusMan Animator Controller.controller.meta
+Assets/Military_Rifle_01_Free_v2/Rif_FREE.png
+Assets/Military_Rifle_01_Free_v2/Rif_FREE.png.meta
+Assets/Military_Rifle_01_Free_v2/Docs/01-DefaultSetupViewing_And_RiflePlacement.png
+Assets/Military_Rifle_01_Free_v2/Docs/01-DefaultSetupViewing_And_RiflePlacement.png.meta
+Assets/Military_Rifle_01_Free_v2/Docs/02-NoModelForPreview.PNG
+Assets/Military_Rifle_01_Free_v2/Docs/02-NoModelForPreview.PNG.meta
+Assets/Military_Rifle_01_Free_v2/Docs/03-DragMotusManIntoPreview.png
+Assets/Military_Rifle_01_Free_v2/Docs/03-DragMotusManIntoPreview.png.meta
+Assets/Military_Rifle_01_Free_v2/Docs/04-MotusManSkeleton.PNG
+Assets/Military_Rifle_01_Free_v2/Docs/04-MotusManSkeleton.PNG.meta
+Assets/Military_Rifle_01_Free_v2/Docs/Military_Rifle_Free_Unity_Info.rtf
+Assets/Military_Rifle_01_Free_v2/Docs/Military_Rifle_Free_Unity_Info.rtf.meta
+Assets/Military_Rifle_01_Free_v2/Docs/Military_Rifle_Free_Unity_Info.txt
+Assets/Military_Rifle_01_Free_v2/Docs/Military_Rifle_Free_Unity_Info.txt.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation.meta
+Assets/Military_Rifle_01_Free_v2/FBX/M4_Rifle_01.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/M4_Rifle_01.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Materials.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/Materials.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Crouch_Idle.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Crouch_Idle.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Jog_Aim_F_Loop.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Jog_Aim_F_Loop.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Stand_Relaxed_Fgt_v1.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Stand_Relaxed_Fgt_v1.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Stand_Relaxed_Idle.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Stand_Relaxed_Idle.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Walk_Aim_F_Loop.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Walk_Aim_F_Loop.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Walk_F_Loop.fbx
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/MIL2_M3_W2_Walk_F_Loop.fbx.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/Materials/MCG_diff.mat
+Assets/Military_Rifle_01_Free_v2/FBX/Animation/Materials/MCG_diff.mat.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Materials/M4DF2048.mat
+Assets/Military_Rifle_01_Free_v2/FBX/Materials/M4DF2048.mat.meta
+Assets/Military_Rifle_01_Free_v2/FBX/Materials/MCG_diff.mat
+Assets/Military_Rifle_01_Free_v2/FBX/Materials/MCG_diff.mat.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4AO2048.jpg
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4AO2048.jpg.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4DF2048.jpg
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4DF2048.jpg.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4NM2048.jpg
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4NM2048.jpg.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4SP2048.jpg
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/M4SP2048.jpg.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/MCG_diff.jpg
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/MCG_diff.jpg.meta
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/MCG_spec.jpg
+Assets/Military_Rifle_01_Free_v2/FBX/MotusMan_v2/MCG_spec.jpg.meta
+Assets/Models/Materials.meta
+Assets/Models/SaraBecker.FBX
+Assets/Models/SaraBecker.FBX.meta
+Assets/Models/T_CH_FNPCJerseyGangWoman_ns.tga
+Assets/Models/T_CH_FNPCJerseyGangWoman_ns.tga.meta
+Assets/Models/T_CH_FNPCJerseyGangWoman1_cm.tga
+Assets/Models/T_CH_FNPCJerseyGangWoman1_cm.tga.meta
+Assets/Models/Materials/T_CH_FNPCJerseyGangWoman1_cm.mat
+Assets/Models/Materials/T_CH_FNPCJerseyGangWoman1_cm.mat.meta
+Assets/Modern Weapons Pack/ACOG Sight.meta
+Assets/Modern Weapons Pack/Ak-47.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade.meta
+Assets/Modern Weapons Pack/M4A1.meta
+Assets/Modern Weapons Pack/Skorpion VZ.meta
+Assets/Modern Weapons Pack/UMP-45.meta
+Assets/Modern Weapons Pack/ACOG Sight/FBX.meta
+Assets/Modern Weapons Pack/ACOG Sight/OBJ (Extra).meta
+Assets/Modern Weapons Pack/ACOG Sight/Textures.meta
+Assets/Modern Weapons Pack/ACOG Sight/FBX/ACOG Sight.fbx
+Assets/Modern Weapons Pack/ACOG Sight/FBX/ACOG Sight.fbx.meta
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials.meta
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/ACOG Diffuse + Specular.mat
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/ACOG Diffuse + Specular.mat.meta
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/Front_Lens.mat
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/Front_Lens.mat.meta
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/Rear_Lens.mat
+Assets/Modern Weapons Pack/ACOG Sight/FBX/Materials/Rear_Lens.mat.meta
+Assets/Modern Weapons Pack/ACOG Sight/OBJ (Extra)/ACOG Sight.obj
+Assets/Modern Weapons Pack/ACOG Sight/OBJ (Extra)/ACOG Sight.obj.meta
+Assets/Modern Weapons Pack/ACOG Sight/Textures/ACOG Normals.png
+Assets/Modern Weapons Pack/ACOG Sight/Textures/ACOG Normals.png.meta
+Assets/Modern Weapons Pack/ACOG Sight/Textures/ACOG Sight.tga
+Assets/Modern Weapons Pack/ACOG Sight/Textures/ACOG Sight.tga.meta
+Assets/Modern Weapons Pack/ACOG Sight/Textures/Lens.png
+Assets/Modern Weapons Pack/ACOG Sight/Textures/Lens.png.meta
+Assets/Modern Weapons Pack/Ak-47/FBX.meta
+Assets/Modern Weapons Pack/Ak-47/OBJ (Extra).meta
+Assets/Modern Weapons Pack/Ak-47/Textures.meta
+Assets/Modern Weapons Pack/Ak-47/FBX/Ak-47.fbx
+Assets/Modern Weapons Pack/Ak-47/FBX/Ak-47.fbx.meta
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials.meta
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/Ak47 Magazine NRM.mat
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/Ak47 Magazine NRM.mat.meta
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/Ak47Body__Untitled.mat
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/Ak47Body__Untitled.mat.meta
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/GreyMat.mat
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/GreyMat.mat.meta
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/No Name.mat
+Assets/Modern Weapons Pack/Ak-47/FBX/Materials/No Name.mat.meta
+Assets/Modern Weapons Pack/Ak-47/OBJ (Extra)/Ak-47.obj
+Assets/Modern Weapons Pack/Ak-47/OBJ (Extra)/Ak-47.obj.meta
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Body Diffuse.tga
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Body Diffuse.tga.meta
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Body NRM.png
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Body NRM.png.meta
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Magazine Diffuse.tga
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Magazine Diffuse.tga.meta
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Magazine NRM.png
+Assets/Modern Weapons Pack/Ak-47/Textures/Ak47 Magazine NRM.png.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/OBJ (Extra).meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/Texture.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX/Materials.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX/Smoke Grenade.fbx
+Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX/Smoke Grenade.fbx.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX/Materials/Smoke Grenade DIF.mat
+Assets/Modern Weapons Pack/M18 Smoke Grenade/FBX/Materials/Smoke Grenade DIF.mat.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/OBJ (Extra)/Smoke Grenade.obj
+Assets/Modern Weapons Pack/M18 Smoke Grenade/OBJ (Extra)/Smoke Grenade.obj.meta
+Assets/Modern Weapons Pack/M18 Smoke Grenade/Texture/Smoke Grenade.tga
+Assets/Modern Weapons Pack/M18 Smoke Grenade/Texture/Smoke Grenade.tga.meta
+Assets/Modern Weapons Pack/M4A1/FBX.meta
+Assets/Modern Weapons Pack/M4A1/OBJ (Extra).meta
+Assets/Modern Weapons Pack/M4A1/Textures.meta
+Assets/Modern Weapons Pack/M4A1/FBX/M4A1 Sopmod.fbx
+Assets/Modern Weapons Pack/M4A1/FBX/M4A1 Sopmod.fbx.meta
+Assets/Modern Weapons Pack/M4A1/FBX/Materials.meta
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Body Diffuse.mat
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Body Diffuse.mat.meta
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Iron Sight Diffuse.mat
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Iron Sight Diffuse.mat.meta
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Magazine Diffuse.mat
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1 Sopmod Magazine Diffuse.mat.meta
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1_Sopmod_Body.mat
+Assets/Modern Weapons Pack/M4A1/FBX/Materials/M4A1_Sopmod_Body.mat.meta
+Assets/Modern Weapons Pack/M4A1/OBJ (Extra)/M4A1 Sopmod.obj
+Assets/Modern Weapons Pack/M4A1/OBJ (Extra)/M4A1 Sopmod.obj.meta
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Body Diffuse.tga
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Body Diffuse.tga.meta
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Body NRM.png
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Body NRM.png.meta
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Iron Sight Diffuse.tga
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Iron Sight Diffuse.tga.meta
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Iron Sight NRM.png
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Iron Sight NRM.png.meta
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Magazine Diffuse.tga
+Assets/Modern Weapons Pack/M4A1/Textures/M4A1 Sopmod Magazine Diffuse.tga.meta
+Assets/Modern Weapons Pack/Skorpion VZ/FBX.meta
+Assets/Modern Weapons Pack/Skorpion VZ/OBJ (Extra).meta
+Assets/Modern Weapons Pack/Skorpion VZ/Textures.meta
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials.meta
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Skorpion VZ.fbx
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Skorpion VZ.fbx.meta
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials/Skorpion_VS.mat
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials/Skorpion_VS.mat.meta
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials/Skorpion_VS_Mag.mat
+Assets/Modern Weapons Pack/Skorpion VZ/FBX/Materials/Skorpion_VS_Mag.mat.meta
+Assets/Modern Weapons Pack/Skorpion VZ/OBJ (Extra)/Skorpion VZ.obj
+Assets/Modern Weapons Pack/Skorpion VZ/OBJ (Extra)/Skorpion VZ.obj.meta
+Assets/Modern Weapons Pack/Skorpion VZ/Textures/Skorpion_VZ_Diffuse.tga
+Assets/Modern Weapons Pack/Skorpion VZ/Textures/Skorpion_VZ_Diffuse.tga.meta
+Assets/Modern Weapons Pack/Skorpion VZ/Textures/Skorpion_VZ_Magazine.png
+Assets/Modern Weapons Pack/Skorpion VZ/Textures/Skorpion_VZ_Magazine.png.meta
+Assets/Modern Weapons Pack/Skorpion VZ/Textures/Skorpion_VZ_Normals.png
+Assets/Modern Weapons Pack/Skorpion VZ/Textures/Skorpion_VZ_Normals.png.meta
+Assets/Modern Weapons Pack/UMP-45/FBX.meta
+Assets/Modern Weapons Pack/UMP-45/OBJ (Extra).meta
+Assets/Modern Weapons Pack/UMP-45/Textures.meta
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials.meta
+Assets/Modern Weapons Pack/UMP-45/FBX/UMP-45.fbx
+Assets/Modern Weapons Pack/UMP-45/FBX/UMP-45.fbx.meta
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials/Material_001.mat
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials/Material_001.mat.meta
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials/UMP-45_Body_Diffuse.mat
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials/UMP-45_Body_Diffuse.mat.meta
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials/UMP-45_Mag_Diffuse.mat
+Assets/Modern Weapons Pack/UMP-45/FBX/Materials/UMP-45_Mag_Diffuse.mat.meta
+Assets/Modern Weapons Pack/UMP-45/OBJ (Extra)/UMP-45.obj
+Assets/Modern Weapons Pack/UMP-45/OBJ (Extra)/UMP-45.obj.meta
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Body_Diffuse.tga
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Body_Diffuse.tga.meta
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Body_Normals.png
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Body_Normals.png.meta
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Mag_Diffuse.tga
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Mag_Diffuse.tga.meta
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Mag_Normals.png
+Assets/Modern Weapons Pack/UMP-45/Textures/UMP-45_Mag_Normals.png.meta

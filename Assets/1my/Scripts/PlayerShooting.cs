@@ -21,6 +21,8 @@ public class PlayerShooting : MonoBehaviour
     [SerializeField] Light faceLight;
     float effectsDisplayTime = 0.2f;
 
+    HealthHelper _parent;
+
     private void Awake()
     {
         shootableMask = LayerMask.GetMask("Shootable");
@@ -29,6 +31,8 @@ public class PlayerShooting : MonoBehaviour
         gunLine = GetComponent<LineRenderer>();
         gunLight = GetComponent<Light>();
         gunAudioSource = GetComponent<AudioSource>();
+
+        _parent = GetComponentInParent<HealthHelper>();
     }
 
     private void Update()
@@ -80,7 +84,12 @@ public class PlayerShooting : MonoBehaviour
 
         if (Physics.Raycast(shootRay, out shootHit, range))
         {
-            if (shootHit.collider.GetComponent<Rigidbody>())
+            if (shootHit.collider.GetComponentInParent<HealthHelper>())
+            {
+                shootHit.collider.GetComponentInParent<HealthHelper>().GetDamage( 10, _parent);
+            }
+
+            else if (shootHit.collider.GetComponent<Rigidbody>())
             {
                 shootHit.collider.GetComponent<Rigidbody>().AddForce(transform.forward * 300);
             }
@@ -96,11 +105,16 @@ public class PlayerShooting : MonoBehaviour
 
     public void Drop()
     {
-        StartCoroutine((WaitDrop));
+        StartCoroutine(WaitDrop());
     }
 
     IEnumerator WaitDrop()
     {
+        yield return new WaitForSeconds(0.3f);
 
+        Body.transform.SetParent(null);
+        Body.GetComponent<Collider>().enabled = true;
+        Body.GetComponent<Rigidbody>().isKinematic = false;
+        Body.GetComponent<Rigidbody>().AddForce(Random.insideUnitSphere * 200);
     }
 }

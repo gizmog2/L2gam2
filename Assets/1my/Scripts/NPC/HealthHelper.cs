@@ -7,6 +7,7 @@ public class HealthHelper : MonoBehaviour
 {
     [SerializeField] float MaxHealth = 100;
     [SerializeField] float Health = 100;
+    [SerializeField] int Group = 0;
 
     [SerializeField] bool DynamicHealthBarCreate = true;
 
@@ -24,6 +25,7 @@ public class HealthHelper : MonoBehaviour
 
     public float getMaxHealth { get {return MaxHealth; } }
     public float getHealth { get { return Health; } }
+    public int getGroup { get { return Group; } }
 
     public void GetDamage(int damage, HealthHelper killer)
     {
@@ -40,6 +42,7 @@ public class HealthHelper : MonoBehaviour
             killer.Kills = 1;
             GetComponentInChildren<PlayerShooting>().Drop();
             GetComponent<Animator>().SetBool("Dead", true);
+            Destroy(_healthBarHelper.gameObject);
         }
 
     }

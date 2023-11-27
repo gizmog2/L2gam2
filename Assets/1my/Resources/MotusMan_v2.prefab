@@ -7462,7 +7462,7 @@ Animator:
   m_Controller: {fileID: 9100000, guid: 750de570e8d516547bab7aec61082ad4, type: 2}
   m_CullingMode: 1
   m_UpdateMode: 0
-  m_ApplyRootMotion: 1
+  m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
   m_StabilizeFeet: 0
   m_WarningMessage: 
@@ -7513,7 +7513,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 44240b06e19e2b74493a2492f04455f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EndPoint: {fileID: 0}
 --- !u!195 &1082907848
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -7568,6 +7567,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MaxHealth: 100
   Health: 100
+  Group: 0
   DynamicHealthBarCreate: 1
 --- !u!1 &8438455859620559797
 GameObject:

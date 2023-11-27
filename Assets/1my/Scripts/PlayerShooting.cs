@@ -44,7 +44,7 @@ public class PlayerShooting : MonoBehaviour
             DisableEffects();
         }
 
-        StartShoot();
+        //StartShoot();
 
     }
 

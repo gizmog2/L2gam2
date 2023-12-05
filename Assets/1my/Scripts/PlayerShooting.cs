@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class PlayerShooting : MonoBehaviour
 {
-    [SerializeField] GameObject Body;        // —сылка на оружие
+    [SerializeField] GameObject _body;        // —сылка на оружие
+    public GameObject Body { get { return _body; } }
 
     [SerializeField] int damagePerShot = 20;   // ”рон за выстрел
     [SerializeField] float timeBetweenBullets = 0.15f;
@@ -84,9 +85,23 @@ public class PlayerShooting : MonoBehaviour
 
         if (Physics.Raycast(shootRay, out shootHit, range))
         {
-            if (shootHit.collider.GetComponentInParent<HealthHelper>())
+            // Head hit
+            if (/*shootHit.collider.GetComponentInParent<HealthHelper>() && */shootHit.collider.GetComponentInParent<HeadHelper>())
             {
-                shootHit.collider.GetComponentInParent<HealthHelper>().GetDamage( 10, _parent);
+                GameObject blood = Instantiate(Resources.Load("Blood"), shootHit.point, Quaternion.identity) as GameObject;
+                Destroy(blood, 1);
+
+                shootHit.collider.GetComponentInParent<HealthHelper>().GetDamage(101, _parent);
+                //Debug.Log("HeadShot!");
+            }
+
+            // Body hit
+            else if (shootHit.collider.GetComponentInParent<HealthHelper>())
+            {
+                //Blood effect
+                GameObject blood = Instantiate(Resources.Load("Blood"), shootHit.point, Quaternion.identity) as GameObject;
+                Destroy(blood, 1);
+                shootHit.collider.GetComponentInParent<HealthHelper>().GetDamage( damagePerShot, _parent);
             }
 
             else if (shootHit.collider.GetComponent<Rigidbody>())
@@ -112,9 +127,9 @@ public class PlayerShooting : MonoBehaviour
     {
         yield return new WaitForSeconds(0.3f);
 
-        Body.transform.SetParent(null);
-        Body.GetComponent<Collider>().enabled = true;
-        Body.GetComponent<Rigidbody>().isKinematic = false;
-        Body.GetComponent<Rigidbody>().AddForce(Random.insideUnitSphere * 200);
+        _body.transform.SetParent(null);
+        _body.GetComponent<Collider>().enabled = true;
+        _body.GetComponent<Rigidbody>().isKinematic = false;
+        _body.GetComponent<Rigidbody>().AddForce(Random.insideUnitSphere * 200);
     }
 }

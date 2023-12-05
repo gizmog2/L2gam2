@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class NPCHealper : MonoBehaviour
 {
@@ -27,21 +28,26 @@ public class NPCHealper : MonoBehaviour
 
     private IEnumerator Timer()
     {
-        HealthHelper[] targets = GameObject.FindObjectsOfType<HealthHelper>().Where(p=>p.getGroup != healthHelper.getGroup).ToArray();
+        HealthHelper[] targets = GameObject.FindObjectsOfType<HealthHelper>().Where(p => p.getGroup != healthHelper.getGroup && !p.Dead).ToArray();
 
         if (targets.Length == 0)
         {
-            yield return new WaitForSeconds(1);
-            StartCoroutine(Timer());
+            /*yield return new WaitForSeconds(1);
+            StartCoroutine(Timer());*/
+            GetComponent<NavMeshAgent>().enabled = false;
+            GetComponent<Animator>().SetTrigger("Winner");
         }
-
-        target = targets[Random.Range(0, targets.Length)];
-
-        if (!healthHelper.Dead)
+        else
         {
-            yield return new WaitForSeconds(5);
-            StartCoroutine(Timer());
+            target = targets[Random.Range(0, targets.Length)];
+
+            if (!healthHelper.Dead)
+            {
+                yield return new WaitForSeconds(5);
+                StartCoroutine(Timer());
+            }
         }
+
 
     }
 
@@ -57,7 +63,12 @@ public class NPCHealper : MonoBehaviour
         {
             Vector3 targetPos = new Vector3(target.transform.position.x, 0, target.transform.position.z);
             transform.LookAt(targetPos);
+            float height = target.GetComponent<CapsuleCollider>().height;
+            Vector3 firePosition = new Vector3(target.transform.position.x, height, target.transform.position.z);
 
+            Vector3 randomeSphere = Random.insideUnitSphere * 1.5f;
+
+            gun.Body.transform.LookAt(firePosition + randomeSphere);
             gun.StartShoot();
         }
     }

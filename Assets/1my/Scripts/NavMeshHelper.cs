@@ -35,5 +35,9 @@ public class NavMeshHelper : MonoBehaviour
         GetComponent<Animator>().SetBool("OffMesh", agent.isOnOffMeshLink);
 
         agent.SetDestination(nPCHealper.Target.transform.position);
+
+        //Debug.Log(gameObject.name + "walk");
     }
+
+    
 }

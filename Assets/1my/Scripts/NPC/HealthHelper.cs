@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class HealthHelper : MonoBehaviour
 {
@@ -10,6 +11,8 @@ public class HealthHelper : MonoBehaviour
     [SerializeField] int Group = 0;
 
     [SerializeField] bool DynamicHealthBarCreate = true;
+
+    
 
     private bool _dead;
 
@@ -27,6 +30,20 @@ public class HealthHelper : MonoBehaviour
     public float getHealth { get { return Health; } }
     public int getGroup { get { return Group; } }
 
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+        if (DynamicHealthBarCreate)
+        {
+            GameObject healthbar = Instantiate(Resources.Load("Healthbar"), Vector3.zero, Quaternion.identity) as GameObject;
+            healthbar.transform.SetParent(GameObject.Find("Canvas").transform);
+
+            _healthBarHelper = healthbar.GetComponent<UiHealthbarHelper>();
+            _healthBarHelper.SetNPC = transform;
+        }
+    }
+
     public void GetDamage(int damage, HealthHelper killer)
     {
         if (Dead)
@@ -39,28 +56,17 @@ public class HealthHelper : MonoBehaviour
         if (Health <= 0)
         {
             Dead = true;
-            killer.Kills = 1;
+            killer.Kills += 1;
+            GetComponent<NavMeshAgent>().enabled = false;
             GetComponentInChildren<PlayerShooting>().Drop();
             GetComponent<Animator>().SetBool("Dead", true);
-            Destroy(_healthBarHelper.gameObject);
+            _healthBarHelper.DisableSlider();
         }
 
     }
 
 
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        if (DynamicHealthBarCreate)
-        {
-            GameObject healthbar = Instantiate(Resources.Load("Healthbar"), Vector3.zero, Quaternion.identity) as GameObject;
-            healthbar.transform.SetParent(GameObject.Find("Canvas").transform);
-
-            _healthBarHelper = healthbar.GetComponent<UiHealthbarHelper>();
-            _healthBarHelper.SetNPC = transform;
-        }
-    }
 
     // Update is called once per frame
     void Update()

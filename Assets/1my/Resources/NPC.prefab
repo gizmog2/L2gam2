@@ -3008,6 +3008,7 @@ GameObject:
   - component: {fileID: 6579080801066322381}
   - component: {fileID: 6579080801066322382}
   - component: {fileID: 6579080801066322383}
+  - component: {fileID: 2386067382121237201}
   m_Layer: 0
   m_Name: HeadSphere
   m_TagString: Untagged
@@ -3093,6 +3094,18 @@ SphereCollider:
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &2386067382121237201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6579080801066322377}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89c7ca408b599424ab7d7303e994a5d4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6579080801114701336
 GameObject:
   m_ObjectHideFlags: 0
@@ -8273,7 +8286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3df8d9c7f1377c74682d9a0d89da0bb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Body: {fileID: 3339135195013172117}
+  _body: {fileID: 3339135195013172117}
   damagePerShot: 20
   timeBetweenBullets: 0.15
   range: 100
